@@ -1,4 +1,4 @@
-12057
+12056
 68C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\.gitignore133538692360000000 0
 111C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\perfume-product\node_modules\weak-lru-cache\README.md133701754301709801 0
 113C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\perfume-product\node_modules\js-yaml\lib\schema\json.js133701754331399446 0
@@ -90,7 +90,6 @@
 101C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\node_modules\type-fest\ts41\camel-case.d.ts133701754302313094 0
 127C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\perfume-product\node_modules\@swc\helpers\_\_class_private_method_set133703495275331727 1
 101C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\node_modules\@parcel\core\lib\Validation.js133701754461702229 0
-68C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\index.html133707028628631140 0
 126C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\perfume-product\node_modules\@swc\helpers\esm\_is_native_function.js133701754492644138 0
 130C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\perfume-product\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133701754458929988 0
 70C:\Users\Hamdan\Documents\GitHub\project4\perfume-product\package.json133701772847169928 0
